@@ -11,3 +11,6 @@
 - Backend: Python/Java
 - Database: PostgreSQL
 - Frontend: HTML/CSS/JavaScript
+В разработке:
+- Функция авторизации в разработке
+- Планируется: вход по логину/паролю, ролевой доступ
